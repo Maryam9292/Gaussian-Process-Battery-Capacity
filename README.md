@@ -4,7 +4,7 @@ A small, self-directed project applying Gaussian Process (GP) regression to
 predict capacity fade in a Li-ion battery, with a focus on **uncertainty
 quantification** and **honest evaluation on a held-out future segment**.
 
-The project was built as hands-on preparation for a PhD application in
+The project was built as hands-on practice to get exposure to
 probabilistic machine learning for battery state estimation.
 
 ---
