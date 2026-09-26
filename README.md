@@ -89,7 +89,7 @@ changes.
 
 ## Main figure
 
-![GP regression on B0005 capacity fade]("figures/gp_capacity_fade.png")
+![GP regression on B0005 capacity fade](figures/gp_capacity_fade.png)
 
 The blue band is the GP's 95% credible interval on the test segment. Its
 width illustrates the model's uncertainty and the limitation described
@@ -121,7 +121,4 @@ Cleaned raw data: capacity fade over 168 discharge cycles.
 - No sparse or variational GP; exact inference only, feasible here because
   n ≈ 168.
 
----
-
-## Repository contents
 
