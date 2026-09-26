@@ -100,7 +100,7 @@ above.
 Cleaned raw data: capacity fade over 168 discharge cycles.
 ---
 
-## What this project demonstrates
+## This project is demonstrating
 
 - Correct use of a GP for regression with predictive uncertainty.
 - Kernel selection and justification (Matérn 3/2 for finite smoothness;
